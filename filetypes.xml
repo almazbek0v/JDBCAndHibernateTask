@@ -1,7 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="DB" type="CLASS" />
       <mapping pattern="maine" type="JAVA" />
+      <mapping pattern="DB2" type="JAVA" />
     </extensionMap>
   </component>
 </application>
