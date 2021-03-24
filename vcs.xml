@@ -10,8 +10,12 @@
           <option name="url" value="https://github.com/almazbek0v/gitTesting.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/peaksoft-school/JDBCAndHibernateTask.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Desktop" />
+    <option name="cloneParentDir" value="$USER_HOME$/Desktop/JDBCAndHibernateTask" />
   </component>
 </application>
