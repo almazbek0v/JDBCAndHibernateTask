@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="DB" type="CLASS" />
+      <mapping pattern="выф" type="JAVA" />
+      <mapping pattern="maine" type="JAVA" />
+      <mapping pattern="DB2" type="JAVA" />
+      <mapping pattern="офмф" type="JavaFX" />
+    </extensionMap>
+  </component>
+</application>
