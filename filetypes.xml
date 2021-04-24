@@ -6,6 +6,7 @@
       <mapping pattern="maine" type="JAVA" />
       <mapping pattern="DB2" type="JAVA" />
       <mapping pattern="офмф" type="JavaFX" />
+      <mapping ext="rar" type="MavenConfig" />
       <mapping ext="properies" type="Properties" />
     </extensionMap>
   </component>
