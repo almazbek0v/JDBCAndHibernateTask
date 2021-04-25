@@ -8,6 +8,7 @@
       <mapping pattern="офмф" type="JavaFX" />
       <mapping ext="rar" type="MavenConfig" />
       <mapping ext="properies" type="Properties" />
+      <mapping ext="xml " type="XML" />
     </extensionMap>
   </component>
 </application>
