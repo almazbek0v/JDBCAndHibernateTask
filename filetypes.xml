@@ -8,9 +8,7 @@
       <mapping pattern="офмф" type="JavaFX" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="rar" type="MavenConfig" />
-      <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="properies" type="Properties" />
-      <removed_mapping ext="properties" type="Properties" />
       <mapping ext="xml " type="XML" />
     </extensionMap>
   </component>
