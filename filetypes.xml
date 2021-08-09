@@ -8,6 +8,7 @@
       <mapping pattern="офмф" type="JavaFX" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="rar" type="MavenConfig" />
+      <mapping pattern="registration.jsp" type="PLAIN_TEXT" />
       <mapping ext="properies" type="Properties" />
       <mapping ext="xml " type="XML" />
     </extensionMap>
