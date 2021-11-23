@@ -13,6 +13,8 @@
       <mapping pattern="registration.jsp" type="PLAIN_TEXT" />
       <mapping ext="properies" type="Properties" />
       <mapping ext="xml " type="XML" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
 </application>
