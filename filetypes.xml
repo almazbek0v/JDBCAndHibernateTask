@@ -1,21 +1,22 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="DB" type="CLASS" />
+      <mapping pattern="DB2" type="JAVA" />
       <mapping pattern="выф" type="JAVA" />
       <mapping pattern="maine" type="JAVA" />
-      <mapping pattern="DB2" type="JAVA" />
       <mapping pattern="офмф" type="JavaFX" />
-      <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="rar" type="MavenConfig" />
       <mapping pattern="registration.jsp" type="PLAIN_TEXT" />
+      <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="properies" type="Properties" />
       <mapping ext="sql " type="SQL" />
       <mapping ext="xml " type="XML" />
-      <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
 </application>
