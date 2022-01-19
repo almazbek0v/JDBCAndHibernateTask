@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="success.html" type="AUTO_DETECTED" />
       <mapping pattern="DB" type="CLASS" />
       <mapping pattern="DB2" type="JAVA" />
       <mapping pattern="выф" type="JAVA" />
