@@ -3,7 +3,15 @@
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
   <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateFindToolWindow" />
   <action id="DuplicatesForm.SendToRight" />
+  <action id="ExternalSystem.RunTask">
+    <keyboard-shortcut first-keystroke="shift q" />
+  </action>
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+    <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
 </keymap>
